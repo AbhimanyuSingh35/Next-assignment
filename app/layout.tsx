@@ -1,3 +1,4 @@
+{/* This is the root layout any css that will be apllied here will be applied to all the pages */}
 import '@/app/ui/global.css';
 import { inter } from '@/app/ui/fonts';
 export default function RootLayout({
